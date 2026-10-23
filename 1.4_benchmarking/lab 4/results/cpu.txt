@@ -1,0 +1,7 @@
+Task 1 - CPU Speed Test 
+Execution time: 3.0192 seconds
+CPU temperature:42.9'C
+CPU Usage:cloudcloders
+
+Device: Rasberry pi
+ 

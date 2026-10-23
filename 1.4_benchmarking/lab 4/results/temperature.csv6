@@ -1,0 +1,4 @@
+temp: 43.5'C
+stress: info: [3364] dispatching hogs: 4 cpu, 0 io, 0 vm, 0 hdd
+stress: info: [3364] successful run completed in 30s
+

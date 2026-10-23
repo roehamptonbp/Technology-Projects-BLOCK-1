@@ -1,0 +1,7 @@
+task 2 - memory allocation test
+memory allocation time:3.960095352999815 seconds
+memory usage free -h: 115mi mem   540m swap
+total ramp: 905mi
+usage ramp: 540mi
+free ramp: 115mi
+available ram: 364mi
